@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="txt1">Sua saude primeiro</string>
+    <string name="txt2">Calculadora Saudavél</string>
+    <string name="txtescolha">O que vamos calcular hoje ?</string>
+    <string name="txtButton">Indice de Massa Corporal(IMC)</string>
+    <string name="txtbutton2">Necessidades Caloricas</string>
+</resources>
